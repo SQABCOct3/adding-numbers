@@ -1,7 +1,6 @@
-#Java Project
-##Base Point for Java Applications
+#Adding Numbers Project
 
-*Project for creating Java Applications which do common tasks.*
+*Application which add two nubers given to user *
 
 **Java 7**
 
